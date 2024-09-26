@@ -1,0 +1,2 @@
+spring.application.name: spring-ai-embedded-model
+spring.profiles.active: ollama

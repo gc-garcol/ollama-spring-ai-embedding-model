@@ -1,0 +1,5 @@
+spring.ai.ollama:
+  # see org.springframework.ai.autoconfigure.ollama.OllamaEmbeddingProperties
+  embedding:
+    options:
+      model: mxbai-embed-large
